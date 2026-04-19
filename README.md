@@ -1,5 +1,5 @@
 Hello,
-I'm currently learning C#, PHP and SQL
+I'm currently stuying Mathematiks at the University Bonn. 
 
 <!---
 TeddyTh/TeddyTh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
